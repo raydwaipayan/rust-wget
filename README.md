@@ -1,10 +1,12 @@
 # rust-wget
 rust-wget is a simple re-write of the famous wget utility in rust.
 
+![alt text](https://github.com/raydwaipayan/rust-wget/blob/master/ex1.png)
+
 ## Requirements
 * Latest version of rust is preferred
         ```rustup update```
-           
+
 ## Crates used
 * clap 
 * reqwest

@@ -1,0 +1,11 @@
+[package]
+name = "rust-wget"
+version = "0.1.0"
+authors = ["raydwaipayan <dwaipayanray1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2"
+indicatif = "0.11.0"
+reqwest = "0.9.18"
+colored = "1.8"

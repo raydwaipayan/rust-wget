@@ -1,6 +1,7 @@
 extern crate clap;
 extern crate reqwest;
 extern crate colored;
+extern crate indicatif;
 
 use std::fs::File;
 use std::io::Read;
